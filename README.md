@@ -1,3 +1,7 @@
+Fork of the seti-folders that uses folder icons from the built-in minimal icon theme.
+
+---
+
 # seti-icons
 
 This is an icon theme with folder that uses the icons from [`seti-ui`](https://github.com/jesseweed/seti-ui).
