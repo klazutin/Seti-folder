@@ -1,6 +1,9 @@
-Fork of the seti-folders that uses folder icons from the built-in minimal icon theme.
+Fork of the seti-folders theme that uses folder icons from the built-in minimal icon theme.
+
+To build, put contents in a folder named `extension` and compress the folder into a zip archive. Change extension to .vsix and install in VS Code.
 
 ---
+
 
 # seti-icons
 
